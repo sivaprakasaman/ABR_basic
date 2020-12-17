@@ -1,0 +1,33 @@
+16-Dec-2020 10:04:56 - Start
+16-Dec-2020 10:41:03 - Start
+16-Dec-2020 10:16:11 - Start
+16-Dec-2020 11:11:01 - Start
+16-Dec-2020 10:43:34 - Start
+16-Dec-2020 10:47:10 - Error: Can't collect data for Unit #0. Open new Unit first
+16-Dec-2020 10:47:12 - Error: Can't collect data for Unit #0. Open new Unit first
+16-Dec-2020 11:13:41 - Start
+16-Dec-2020 11:15:15 - Start
+16-Dec-2020 11:16:35 - Start
+16-Dec-2020 11:23:40 - Start
+16-Dec-2020 11:54:02 - Start
+16-Dec-2020 11:54:49 - Start
+16-Dec-2020 12:06:09 - Error: Can't collect data for Unit #0. Open new Unit first
+16-Dec-2020 12:06:18 - Error: Can't collect data for Unit #0. Open new Unit first
+16-Dec-2020 12:06:21 - Error: Can't collect data for Unit #0. Open new Unit first
+16-Dec-2020 12:07:01 - Start
+16-Dec-2020 12:07:06 - Start
+16-Dec-2020 12:07:12 - Start
+16-Dec-2020 12:10:38 - Start
+16-Dec-2020 12:11:35 - Start
+16-Dec-2020 12:13:32 - Start
+16-Dec-2020 12:15:00 - Start
+16-Dec-2020 12:16:24 - Start
+16-Dec-2020 12:31:35 - Start
+16-Dec-2020 12:32:39 - Start
+16-Dec-2020 12:38:01 - Start
+16-Dec-2020 12:38:54 - Start
+16-Dec-2020 12:51:14 - Start
+16-Dec-2020 12:52:32 - Start
+16-Dec-2020 12:55:09 - Start
+16-Dec-2020 12:55:58 - Start
+16-Dec-2020 13:07:42 - Start
